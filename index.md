@@ -1,12 +1,10 @@
 ---
 layout: default
 ---
-This devroom aims to showcase successful approaches in libre translations, community achievements, innovative approaches and tools.
+This devroom aims to showcase successful approaches in libre translations, community achievements, innovative workflows, tools and integrations.
 
-CfP is open. We are looking forward to your proposals!
-Announcement
-
-Come and share your experience with the localization process. Inspire others or propose solutions to struggles you spotted. It can be related to FOSS, open hardware, manuals, etc. Talk about what you find important; it can be your approach on used tools, community dynamic, workflows, benefits.
+Come and share your experience with the localization process. Inspire others or propose solutions to struggles you spotted. It can be related to FOSS, open hardware, manuals, etc. 
+Talk about what you find important; it can be your approach on used tools, community dynamic, workflows, benefits. Inspire others, leave inspired and carry new knowledge.
 
 Talks describing collaborative efforts are the most welcome. Having a stack of good, well-integrated tools is just one part of the process. Don’t stop there. 
 *   How do you motivate and care about your project’s community?
@@ -19,18 +17,18 @@ Talks describing collaborative efforts are the most welcome. Having a stack of g
 
 ## Important Dates
 
-*  CfP submission deadline: 5th December 2025, 23:55 CET
-*  Selected talks and schedule announced: 15 December 2025
-*  Devroom takes place: most probably Saturday afternoon, 31st January 2026
+*   CfP submission deadline: 5th December 2025, 23:55 CET
+*   Selected talks and schedule announced: 15 December 2025
+*   Devroom takes place: most probably Saturday afternoon, 31st January 2026
 
 ## Welcomed topics: 
 
-* your own localization-related ideas
-* Users' happines and experience improvement delivered by quality translations
-* Indtroducing and implementing changes into large communities
-* Tools used, integrated and improved
-* Succes brought to the project by improved translations
-* Keeping community enthused, active, informed, organized
+*   your own localization-related ideas
+*   Users' happines and experience improvement delivered by quality translations
+*   Indtroducing and implementing changes into large communities
+*   Tools used, integrated and improved
+*   Succes brought to the project by improved translations
+*   Keeping community enthused, active, informed, organized
 
 These are just suggestions and we encourage you to be creative with your proposals. Make the talk yours! :)
 
@@ -38,36 +36,39 @@ These are just suggestions and we encourage you to be creative with your proposa
 A few Notes:
 
 *   You must come in person to present your talk at FOSDEM.
-*   Speaking slots are 25 minutes in length (including Q&A) with 5 minutes between sessions. Note that due to time constraints, number of submissions, etc., we may end up offering a slot duration different than 25 minutes. 
+*   You need to follow [FOSDEM's Code Of Conduct](https://fosdem.org/2026/practical/conduct/)
+*   Speaking slots are 25 minutes in length (including Q&A) with 5 minutes between the sessions. Note that due to time constraints, number of submissions, etc., we may end up offering a slot duration different than 25 minutes. 
 *   FOSDEM is a [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community event, so please ensure your topic is appropriate (i.e., sales pitches will be ).
+*   No compensation can be offered for your talk.
 
-## CFP Selection Committee 
+## CFP Selection group 
 
 | members | organizations and communities, current and former |
 | --------------------------------------------- | ------------ |
-| [Benjamin Alan Jamie](https://www.linkedin.com/in/orangesunny/)| Weblate, Turris | 
-| [Kartik Ohri](https://www.linkedin.com/in/kartik-ohri/) | Metabrainz, Weblate, VideoLAN |
-| [Michal Čihař](https://www.linkedin.com/in/nijel/) | Weblate, Debian, SUSE |
-| [Jean-Baptiste Holcroft](https://www.linkedin.com/in/jeanbaptisteholcroft/) | Fedora, OpenStreetMap |
+| Benjamin Alan Jamie| Weblate, Turris | 
+| Jean-Baptiste Holcroft | Fedora, OpenStreetMap |
+| Kartik Ohri | Metabrainz, Weblate, VideoLAN |
+| Karen Kleinbauerů | Weblate, Moodle |
+| Michal Čihař | Weblate, Debian, SUSE |
+| Alice Visek | Weblate |
 
 ## How to Submit
 
-Go to the FOSDEM 2026 Pretalx website to submit your talks and select Translations in the Track dropdown menu. 
+Go to the FOSDEM 2026 Pretalx website, choose *Talk* and select *Translations* in the **Track** dropdown menu. 
 
 ![Pretalx website - Databases - Submit](images/submit-2026.png)
 
-[Let's get started](https://pretalx.fosdem.org/fosdem-2026/cfp)
+[I wont postpone it, I'll do it now!](https://pretalx.fosdem.org/fosdem-2026/cfp)
 
 ## Contacts
 
-*   [Edith Puclla](https://www.linkedin.com/in/edithpuclla/) - Technology Evangelist, Percona
+*   [Benjamin](https://mastodon.social/@orangesunny) - Weblate Community manager, devroom-responsible person
 
-*   [Matthias Crauwels](https://www.linkedin.com/in/matthiascrauwels/) - Enterprise Customer Engineer, PlanetScale
   
-*   [Ray Paik](https://www.linkedin.com/in/raypaik/) - Community Manager, TiDB
-
 ## More information
 
 *   [Website repository on GitHub](https://github.com/Translations-devroom/FOSDEMtranslationsDevroom26)
 
 *   [More information about the FOSDEM mailing list](https://lists.fosdem.org/listinfo/fosdem)
+
+*   This website is a fork of Database devroom website. You might want to [visit it](https://fosdem-cloud-native-databases-devroom.github.io/) and send a proposal there as well.
