@@ -43,7 +43,7 @@ A few Notes:
 *   FOSDEM is a [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community event, so please ensure your topic is appropriate (i.e., sales pitches will be rejected).
 *   No compensation can be offered for your talk.
 
-## CFP Selection group 
+## CfP Selection group 
 
 | members | projects and communities, current and former |
 | --------------------------------------------- | ------------ |
