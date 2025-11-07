@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-This devroom aims to showcase successful approaches in libre translations, community achievements, innovative workflows, tools and integrations.
+This devroom aims to showcase successful approaches in libre translations, community achievements, innovative workflows, tools, and integrations.
 
 Come and share your experience with the localization process. Inspire others or propose solutions to struggles you spotted. It can be related to FOSS, open hardware, manuals, etc. 
 Talk about what you find important; it can be your approach on used tools, community dynamic, workflows, benefits. Inspire others, leave inspired and carry new knowledge.
@@ -23,11 +23,11 @@ Talks describing collaborative efforts are the most welcome. Having a stack of g
 
 ## Welcomed topics: 
 
-*   your own localization-related ideas
+*   Your own localization-related ideas
 *   Users' happines and experience improvement delivered by quality translations
-*   Indtroducing and implementing changes into large communities
+*   Introducing and implementing changes into large communities
 *   Tools used, integrated and improved
-*   Succes brought to the project by improved translations
+*   Success brought to the project by improved translations
 *   Keeping community enthused, active, informed, organized
 
 These are just suggestions and we encourage you to be creative with your proposals. Make the talk yours! :)
@@ -35,22 +35,22 @@ These are just suggestions and we encourage you to be creative with your proposa
 
 A few Notes:
 
-*   You must come in person to present your talk at FOSDEM.
+*   You must attend in person to present your talk at FOSDEM.
 *   You need to follow [FOSDEM's Code Of Conduct](https://fosdem.org/2026/practical/conduct/)
-*   Speaking slots are 25 minutes in length (including Q&A) with 5 minutes between the sessions. Note that due to time constraints, number of submissions, etc., we may end up offering a slot duration different than 25 minutes. 
-*   FOSDEM is a [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community event, so please ensure your topic is appropriate (i.e., sales pitches will be ).
+*   Speaking slots are 25 minutes in length (including Q&A) with 5 minutes between the sessions. Should you be able to squash your talk into a shorter duration, mention that in your proposal; we might squeeze in more knowledge into the devroom thanks to you!
+*   FOSDEM is a [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community event, so please ensure your topic is appropriate (i.e., sales pitches will be rejected).
 *   No compensation can be offered for your talk.
 
 ## CFP Selection group 
 
-| members | organizations and communities, current and former |
+| members | projects and communities, current and former |
 | --------------------------------------------- | ------------ |
-| Benjamin Alan Jamie| Weblate, Turris | 
+| Benjamin Alan Jamie | Weblate, Turris | 
 | Jean-Baptiste Holcroft | Fedora, OpenStreetMap |
 | Kartik Ohri | Metabrainz, Weblate, VideoLAN |
 | Karen Kleinbauerů | Weblate, Moodle |
 | Michal Čihař | Weblate, Debian, SUSE |
-| Alice Visek | Weblate |
+| Alice Víšek | Weblate |
 
 ## How to Submit
 
