@@ -1,14 +1,17 @@
 ---
 layout: default
 ---
+This devroom aims to showcase successful approaches in libre translations, community achievements, innovative approaches and tools.
 
-The purpose of this devroom is to discuss developing databases that
-can meet the demands of modern applications.
+CfP is open. We are looking forward to your proposals!
+Announcement
 
-Instead of focusing on a single technology or community, our goal is to
-bring open source database communities and developers together to share
-their experience, learn from their work, and foster collaboration on
-challenges ahead.
+Come and share your experience with the localization process. Inspire others or propose solutions to struggles you spotted. It can be related to FOSS, open hardware, manuals, etc. Talk about what you find important; it can be your approach on used tools, community dynamic, workflows, benefits.
+
+Talks describing collaborative efforts are the most welcome. Having a stack of good, well-integrated tools is just one part of the process. Don’t stop there. 
+*   How do you motivate and care about your project’s community?
+*   What did you learn when you introduced changes, improvements, and pursued milestones?
+*   What inspired you to translate and improve the localization process and outcome for all developers, users, and translators?
 
 ## Where
 
@@ -16,52 +19,40 @@ challenges ahead.
 
 ## Important Dates
 
-*   CFP submission deadline: 3 December, 2025 (at ~23:55 Brussels time)
-*   Devroom schedule announced: 15 December, 2025
-*   Devroom takes place: **31 January, 2026**
+*  CfP submission deadline: 5th December 2025, 23:55 CET
+*  Selected talks and schedule announced: 15 December 2025
+*  Devroom takes place: most probably Saturday afternoon, 31st January 2026
 
-## Suggested Topics
+## Welcomed topics: 
 
-* Evolution of new database architecture (e.g., to address scalability, elasticity, reliability in on-prem, distributed, and cloud deployments)
-* Integrating AI/ML workloads 
-* How to ease/streamline database migration (especially from legacy databases)
-* Achieving database upgrades without downtime
-* How to benchmark and tune distributed databases
-* Query optimization 
-* Tools/methodologies for monitoring, observability, optimizations, testing, etc.
-* Working with streaming data
-* Stories from end-users (both successes and failures)
-* Security, compliance, and data governance
-* State of open-source licenses and database communities
-* Emerging trends/use cases
+* your own localization-related ideas
+* Users' happines and experience improvement delivered by quality translations
+* Indtroducing and implementing changes into large communities
+* Tools used, integrated and improved
+* Succes brought to the project by improved translations
+* Keeping community enthused, active, informed, organized
 
-These are just suggestions and we encourage you to be creative with your proposals! You can also view accepted talks from the 2025 devroom at https://archive.fosdem.org/2025/schedule/track/databases/.
+These are just suggestions and we encourage you to be creative with your proposals. Make the talk yours! :)
 
 
 A few Notes:
 
-*   You must be available in person to present your talk at FOSDEM.
+*   You must come in person to present your talk at FOSDEM.
 *   Speaking slots are 25 minutes in length (including Q&A) with 5 minutes between sessions. Note that due to time constraints, number of submissions, etc., we may end up offering a slot duration different than 25 minutes. 
-*   FOSDEM is a [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community event, so please ensure your topic is appropriate (i.e., no sales pitches).
+*   FOSDEM is a [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community event, so please ensure your topic is appropriate (i.e., sales pitches will be ).
 
 ## CFP Selection Committee 
 
-| Members (listed alphabetically by first name) | Organization/Community |
+| members | organizations and communities, current and former |
 | --------------------------------------------- | ------------ |
-| [Alastair Turner](https://www.linkedin.com/in/decodableminion/)| Percona | 
-| [Anna Widenius](https://www.linkedin.com/in/anna-widenius-3a7320b8/) | MariaDB |
-| [Daniel van Eeden](https://www.linkedin.com/in/dveeden/) | TiDB |
-| [Edith Puclla](https://www.linkedin.com/in/edithpuclla/) | Percona | 
-| [Floor Drees](https://www.linkedin.com/in/floordrees/) | EDB | 
-| [Frederic Descamps](https://www.linkedin.com/in/freddescamps/)| MySQL | 
-| [Hari Krishna Sunder](https://www.linkedin.com/in/hari-db/) | Yugabyte | 
-| [Matt Lord](https://www.linkedin.com/in/mattallenlord/) | Vitess |
-| [Mattias Jonsson](https://www.linkedin.com/in/mjonss/) | TiDB | 
-| [Rohit Nayak](https://www.linkedin.com/in/greenibis/)| Vitess |
+| [Benjamin Alan Jamie](https://www.linkedin.com/in/orangesunny/)| Weblate, Turris | 
+| [Kartik Ohri](https://www.linkedin.com/in/kartik-ohri/) | Metabrainz, Weblate, VideoLAN |
+| [Michal Čihař](https://www.linkedin.com/in/nijel/) | Weblate, Debian, SUSE |
+| [Jean-Baptiste Holcroft](https://www.linkedin.com/in/jeanbaptisteholcroft/) | Fedora, OpenStreetMap |
 
-## To Submit
+## How to Submit
 
-Go to the FOSDEM 2026 [Pretalx website](https://pretalx.fosdem.org/fosdem-2026/cfp) to submit your talks and select “Databases” in the Track dropdown menu. 
+Go to the FOSDEM 2026 Pretalx website to submit your talks and select Translations in the Track dropdown menu. 
 
 ![Pretalx website - Databases - Submit](images/submit-2026.png)
 
@@ -77,6 +68,6 @@ Go to the FOSDEM 2026 [Pretalx website](https://pretalx.fosdem.org/fosdem-2026/c
 
 ## More information
 
-*   [Website repository on GitHub](https://github.com/FOSDEM-Cloud-Native-Databases-DevRoom/fosdem-cloud-native-databases-devroom.github.io)
+*   [Website repository on GitHub](https://github.com/Translations-devroom/FOSDEMtranslationsDevroom26)
 
 *   [More information about the FOSDEM mailing list](https://lists.fosdem.org/listinfo/fosdem)
