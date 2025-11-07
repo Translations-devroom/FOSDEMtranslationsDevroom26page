@@ -4,7 +4,7 @@ Website: <link>
 
 
 
-**CfP is open: we are waiting for your submissions.**
+**CfP is open. We are looking forward to your proposals!**
 
 ## Announcement
 
